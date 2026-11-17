@@ -1,0 +1,1098 @@
+{
+ "briefing": "Edmonton's road trip opened in Toronto with a 1-0 win.\n\nEvan Bouchard scored late in the 2nd, and Devon Levi made 19 saves.\n\nPhiladelphia is next, tonight, on the second night of a back-to-back.",
+ "data": {
+  "advanced_stats": {
+   "corsi_pct": 47.3,
+   "fenwick_pct": 47.1,
+   "pdo": 103.6,
+   "sv_pct_5v5": 92.3
+  },
+  "fine_print": "This email is not responsible for anything Edmonton's power play does tonight",
+  "injuries": [
+   {
+    "expected_return": "2026-11-17",
+    "injury": "Knee",
+    "player": "Isaac Howard",
+    "position": "LW",
+    "status": "Injured Reserve"
+   },
+   {
+    "expected_return": "2026-11-21",
+    "injury": "",
+    "player": "Alec Regula",
+    "position": "D",
+    "status": "Injured Reserve"
+   },
+   {
+    "expected_return": "2026-11-24",
+    "injury": "Lower Body",
+    "player": "Matt Savoie",
+    "position": "C",
+    "status": "Injured Reserve"
+   },
+   {
+    "expected_return": "2027-01-09",
+    "injury": "Knee",
+    "player": "Frederik Andersen",
+    "position": "G",
+    "status": "Injured Reserve"
+   },
+   {
+    "expected_return": "2026-11-28",
+    "injury": "",
+    "player": "Mattias Janmark",
+    "position": "C",
+    "status": "Injured Reserve"
+   }
+  ],
+  "last_game": {
+   "date": "2026-11-14",
+   "date_label": "November 14",
+   "days_ago": 1,
+   "decided_in_shootout": false,
+   "game_id": 2026020314,
+   "game_winning_goal": {
+    "assists": [
+     "Connor McDavid",
+     "Leon Draisaitl"
+    ],
+    "period_label": "2nd",
+    "phase": "late in the 2nd",
+    "scorer": "Evan Bouchard",
+    "strength": "EV",
+    "team": "EDM",
+    "time": "15:34"
+   },
+   "goalie": {
+    "decision": "W",
+    "name": "Devon Levi",
+    "player_id": 8482221,
+    "save_pct": 1.0,
+    "saves": 19,
+    "shots_against": 19,
+    "toi": "60:00"
+   },
+   "goalie_lines": {
+    "8476932": {
+     "saves": 22,
+     "shots": 23
+    },
+    "8482221": {
+     "saves": 19,
+     "shots": 19
+    }
+   },
+   "goalies": [
+    {
+     "decision": "W",
+     "name": "Devon Levi",
+     "player_id": 8482221,
+     "save_pct": 1.0,
+     "saves": 19,
+     "shots_against": 19,
+     "toi": "60:00"
+    }
+   ],
+   "home_or_away": "away",
+   "our_score": 1,
+   "opponent": "TOR",
+   "opponent_goalie": {
+    "name": "Anthony Stolarz",
+    "player_id": 8476932,
+    "saves": 22,
+    "shots_against": 23
+   },
+   "opponent_score": 0,
+   "period_type": "REG",
+   "previous_meeting": {
+    "date": "2026-10-24",
+    "days_ago": 22,
+    "home_or_away": "home",
+    "location": "in Edmonton",
+    "our_score": 2,
+    "opponent_score": 7,
+    "period_type": "REG",
+    "result": "L",
+    "weekday": "Saturday"
+   },
+   "recap_link": "https://www.nhl.com/gamecenter/edm-vs-tor/2026/11/14/2026020314",
+   "result": "W",
+   "scoring_summary": [
+    {
+     "goals": [],
+     "period": 1,
+     "period_label": "1st"
+    },
+    {
+     "goals": [
+      {
+       "assists": [
+        "Connor McDavid",
+        "Leon Draisaitl"
+       ],
+       "phase": "late in the 2nd",
+       "scorer": "Evan Bouchard",
+       "strength": "EV",
+       "team": "EDM",
+       "time": "15:34"
+      }
+     ],
+     "period": 2,
+     "period_label": "2nd"
+    },
+    {
+     "goals": [],
+     "period": 3,
+     "period_label": "3rd"
+    }
+   ],
+   "season_series": {
+    "label": "1-1-0",
+    "losses": 1,
+    "ot_losses": 0,
+    "wins": 1
+   },
+   "shutout": {
+    "goalies": [
+     "Devon Levi"
+    ],
+    "saves": 19,
+    "shots": 19
+   },
+   "team_stats": {
+    "ours": {
+     "blocked": "16",
+     "faceoffs": "50.0%",
+     "hits": "24",
+     "pim": "7",
+     "power_play": "0/1",
+     "pp_goals": "0",
+     "sog": "23"
+    },
+    "opponent": {
+     "blocked": "22",
+     "faceoffs": "50.0%",
+     "hits": "30",
+     "pim": "7",
+     "power_play": "0/1",
+     "pp_goals": "0",
+     "sog": "19"
+    }
+   },
+   "three_stars": [
+    {
+     "name": "Evan Bouchard",
+     "player_id": 8480803,
+     "position": "D",
+     "star": 1,
+     "summary": "1G 0A 1PTS",
+     "team": "EDM"
+    },
+    {
+     "name": "Anthony Stolarz",
+     "player_id": 8476932,
+     "position": "G",
+     "star": 2,
+     "summary": "22 of 23",
+     "team": "TOR"
+    },
+    {
+     "name": "Devon Levi",
+     "player_id": 8482221,
+     "position": "G",
+     "star": 3,
+     "summary": "19 saves, shutout",
+     "team": "EDM"
+    }
+   ],
+   "top_skaters": [
+    {
+     "assists": 0,
+     "goals": 1,
+     "name": "Evan Bouchard",
+     "points": 1,
+     "toi": "23:58"
+    },
+    {
+     "assists": 1,
+     "goals": 0,
+     "name": "Connor McDavid",
+     "points": 1,
+     "toi": "22:47"
+    },
+    {
+     "assists": 1,
+     "goals": 0,
+     "name": "Leon Draisaitl",
+     "points": 1,
+     "toi": "21:26"
+    }
+   ],
+   "venue": "Scotiabank Arena",
+   "venue_city": "Toronto",
+   "weekday": "Saturday"
+  },
+  "magic_number": null,
+  "milestones": [
+   {
+    "current": 39,
+    "name": "Connor McDavid",
+    "needed": 1,
+    "next_milestone": 40,
+    "stat": "assists"
+   },
+   {
+    "current": 9,
+    "name": "Vasily Podkolzin",
+    "needed": 1,
+    "next_milestone": 10,
+    "stat": "goals"
+   },
+   {
+    "current": 18,
+    "name": "Leon Draisaitl",
+    "needed": 2,
+    "next_milestone": 20,
+    "stat": "goals"
+   },
+   {
+    "current": 38,
+    "name": "Leon Draisaitl",
+    "needed": 2,
+    "next_milestone": 40,
+    "stat": "points"
+   },
+   {
+    "current": 8,
+    "name": "Mathieu Joseph",
+    "needed": 2,
+    "next_milestone": 10,
+    "stat": "points"
+   }
+  ],
+  "missing_data": [
+   {
+    "reason": "NHL data unavailable",
+    "section": "Top Scorers"
+   }
+  ],
+  "next_game": {
+   "date": "2026-11-15",
+   "days_until": 0,
+   "home_or_away": "away",
+   "is_today": true,
+   "opponent": "PHI",
+   "start_time_utc": "2026-11-16T00:30:00Z",
+   "time": "Mon 16 Nov, 01:30 CET",
+   "venue": "Xfinity Mobile Arena",
+   "weekday": "Sunday"
+  },
+  "next_game_preview": {
+   "all_goalies": [
+    {
+     "assists": 1,
+     "firstName": {
+      "default": "Dan"
+     },
+     "gamesPlayed": 11,
+     "gamesStarted": 11,
+     "goals": 0,
+     "goalsAgainst": 36,
+     "goalsAgainstAverage": 3.241053,
+     "headshot": "https://assets.nhle.com/mugs/nhl/20262027/PHI/8478435.png",
+     "lastName": {
+      "cs": "Vlada\u0159",
+      "default": "Vladar",
+      "sk": "Vlada\u0159"
+     },
+     "losses": 4,
+     "overtimeLosses": 4,
+     "penaltyMinutes": 0,
+     "playerId": 8478435,
+     "points": 1,
+     "savePercentage": 0.879195,
+     "saves": 262,
+     "shotsAgainst": 298,
+     "shutouts": 0,
+     "timeOnIce": 39987,
+     "wins": 3
+    },
+    {
+     "assists": 0,
+     "firstName": {
+      "default": "Joseph"
+     },
+     "gamesPlayed": 11,
+     "gamesStarted": 11,
+     "goals": 0,
+     "goalsAgainst": 32,
+     "goalsAgainstAverage": 2.917711,
+     "headshot": "https://assets.nhle.com/mugs/nhl/20262027/PHI/8479361.png",
+     "lastName": {
+      "default": "Woll"
+     },
+     "losses": 6,
+     "overtimeLosses": 2,
+     "penaltyMinutes": 2,
+     "playerId": 8479361,
+     "points": 0,
+     "savePercentage": 0.90184,
+     "saves": 294,
+     "shotsAgainst": 326,
+     "shutouts": 0,
+     "timeOnIce": 39483,
+     "wins": 3
+    }
+   ],
+   "last_meeting": {
+    "date": "2026-11-11",
+    "days_ago": 4,
+    "home_or_away": "home",
+    "location": "in Edmonton",
+    "our_score": 3,
+    "opponent_score": 2,
+    "period_type": "OT",
+    "result": "W",
+    "weekday": "Wednesday"
+   },
+   "opp_record": {
+    "losses": 10,
+    "ot_losses": 6,
+    "points": 18,
+    "wins": 6
+   },
+   "opp_streak": "W1",
+   "season_series": {
+    "label": "1-0-0",
+    "losses": 0,
+    "ot_losses": 0,
+    "wins": 1
+   },
+   "top_defenseman": {
+    "assists": 9,
+    "games_played": 22,
+    "goals": 1,
+    "name": "Jamie Drysdale",
+    "points": 10
+   },
+   "top_forward": {
+    "assists": 5,
+    "games_played": 22,
+    "goals": 11,
+    "name": "Matvei Michkov",
+    "points": 16,
+    "position": "R"
+   },
+   "top_goalie": {
+    "gaa": 3.24,
+    "games_played": 11,
+    "name": "Dan Vladar",
+    "sv_pct": 0.879,
+    "wins": 3
+   }
+  },
+  "team_logo": "https://assets.nhle.com/logos/nhl/svg/EDM_light.svg",
+  "on_this_day": {
+   "source": "wikipedia",
+   "text": "Wayne Gretzky's Oilers beat the Islanders to win their first Stanley Cup"
+  },
+  "player_of_week": {
+   "assists": 8,
+   "games": 5,
+   "goals": 2,
+   "name": "Connor McDavid",
+   "points": 10
+  },
+  "playoff_bracket": null,
+  "playoff_race": null,
+  "playoff_race_analysis": "",
+  "playoff_scorers": false,
+  "prospects": [
+   {
+    "assists": 7,
+    "goals": 6,
+    "gp": 23,
+    "headshot": "https://assets.nhle.com/mugs/nhl/20262027/EDM/8481734.png",
+    "league": "KHL",
+    "name": "Maxim Denezhkin",
+    "player_id": 8481734,
+    "plus_minus": 11,
+    "points": 13,
+    "position": "C",
+    "position_group": "forwards",
+    "season": 20262027,
+    "team": "Avtomobilist Yekaterinburg"
+   },
+   {
+    "assists": 4,
+    "goals": 7,
+    "gp": 29,
+    "headshot": "https://assets.nhle.com/mugs/nhl/20262027/EDM/8481752.png",
+    "league": "Czechia",
+    "name": "Tomas Mazura",
+    "player_id": 8481752,
+    "plus_minus": -10,
+    "points": 11,
+    "position": "C",
+    "position_group": "forwards",
+    "season": 20252026,
+    "team": "BK Mlad\u00e1 Boleslav"
+   },
+   {
+    "assists": 4,
+    "goals": 5,
+    "gp": 13,
+    "headshot": "https://assets.nhle.com/mugs/nhl/20262027/EDM/8485511.png",
+    "league": "AHL",
+    "name": "Quinn Hutson",
+    "player_id": 8485511,
+    "plus_minus": -5,
+    "points": 9,
+    "position": "R",
+    "position_group": "forwards",
+    "season": 20262027,
+    "team": "Bakersfield Condors"
+   },
+   {
+    "assists": 4,
+    "goals": 5,
+    "gp": 21,
+    "headshot": "https://assets.nhle.com/mugs/nhl/20262027/EDM/8483693.png",
+    "league": "Liiga",
+    "name": "Joel Maatta",
+    "player_id": 8483693,
+    "plus_minus": 2,
+    "points": 9,
+    "position": "C",
+    "position_group": "forwards",
+    "season": 20262027,
+    "team": "TPS"
+   },
+   {
+    "assists": 7,
+    "goals": 2,
+    "gp": 10,
+    "headshot": "https://assets.nhle.com/mugs/nhl/20262027/EDM/8484491.png",
+    "league": "ECHL",
+    "name": "Matt Copponi",
+    "player_id": 8484491,
+    "plus_minus": 5,
+    "points": 9,
+    "position": "C",
+    "position_group": "forwards",
+    "season": 20262027,
+    "team": "Cincinnati Cyclones"
+   },
+   {
+    "assists": 4,
+    "goals": 0,
+    "gp": 27,
+    "headshot": "https://assets.nhle.com/mugs/nhl/20262027/EDM/8483734.png",
+    "league": "KHL",
+    "name": "Nikita Yevseyev",
+    "player_id": 8483734,
+    "plus_minus": 8,
+    "points": 4,
+    "position": "D",
+    "position_group": "defensemen",
+    "season": 20262027,
+    "team": "Ak Bars Kazan"
+   },
+   {
+    "assists": 2,
+    "goals": 1,
+    "gp": 7,
+    "headshot": "https://assets.nhle.com/mugs/nhl/20262027/EDM/8482202.png",
+    "league": "KHL",
+    "name": "Maksim Berezkin",
+    "player_id": 8482202,
+    "plus_minus": 2,
+    "points": 3,
+    "position": "L",
+    "position_group": "forwards",
+    "season": 20262027,
+    "team": "Lokomotiv Yaroslavl"
+   },
+   {
+    "assists": 1,
+    "goals": 0,
+    "gp": 9,
+    "headshot": "https://assets.nhle.com/mugs/nhl/20262027/EDM/8483847.png",
+    "league": "ECHL",
+    "name": "Brady Stonehouse",
+    "player_id": 8483847,
+    "plus_minus": -1,
+    "points": 1,
+    "position": "R",
+    "position_group": "forwards",
+    "season": 20262027,
+    "team": "Fort Wayne Komets"
+   },
+   {
+    "assists": 0,
+    "goals": 0,
+    "gp": 6,
+    "headshot": "https://assets.nhle.com/mugs/nhl/20262027/EDM/8484139.png",
+    "league": "AHL",
+    "name": "Beau Akey",
+    "player_id": 8484139,
+    "plus_minus": -2,
+    "points": 0,
+    "position": "D",
+    "position_group": "defensemen",
+    "season": 20262027,
+    "team": "Bakersfield Condors"
+   },
+   {
+    "gaa": 2.26,
+    "gp": 4,
+    "headshot": "https://assets.nhle.com/mugs/nhl/20262027/EDM/8477035.png",
+    "league": "AHL",
+    "name": "Matt Tomkins",
+    "player_id": 8477035,
+    "position": "G",
+    "position_group": "goalies",
+    "season": 20262027,
+    "shutouts": 0,
+    "sv_pct": 0.922,
+    "team": "Bakersfield Condors",
+    "wins": 1
+   },
+   {
+    "gaa": 3.03,
+    "gp": 2,
+    "headshot": "https://assets.nhle.com/mugs/nhl/20262027/EDM/8484455.png",
+    "league": "ECHL",
+    "name": "Nathaniel Day",
+    "player_id": 8484455,
+    "position": "G",
+    "position_group": "goalies",
+    "season": 20262027,
+    "shutouts": 0,
+    "sv_pct": 0.919,
+    "team": "Fort Wayne Komets",
+    "wins": 1
+   },
+   {
+    "gaa": 4.0,
+    "gp": 1,
+    "headshot": "https://assets.nhle.com/mugs/nhl/20262027/EDM/8483769.png",
+    "league": "ECHL",
+    "name": "Samuel Jonsson",
+    "player_id": 8483769,
+    "position": "G",
+    "position_group": "goalies",
+    "season": 20262027,
+    "shutouts": 0,
+    "sv_pct": 0.857,
+    "team": "Fort Wayne Komets",
+    "wins": 0
+   }
+  ],
+  "recent_form": {
+   "games": [
+    {
+     "date": "2026-10-26",
+     "opponent": "DET",
+     "result": "OTL",
+     "score": "3-4"
+    },
+    {
+     "date": "2026-10-28",
+     "opponent": "CGY",
+     "result": "W",
+     "score": "4-0"
+    },
+    {
+     "date": "2026-10-31",
+     "opponent": "NYI",
+     "result": "W",
+     "score": "4-0"
+    },
+    {
+     "date": "2026-11-01",
+     "opponent": "NYR",
+     "result": "W",
+     "score": "4-1"
+    },
+    {
+     "date": "2026-11-03",
+     "opponent": "NJD",
+     "result": "OTL",
+     "score": "3-4"
+    },
+    {
+     "date": "2026-11-05",
+     "opponent": "ANA",
+     "result": "L",
+     "score": "4-5"
+    },
+    {
+     "date": "2026-11-07",
+     "opponent": "VAN",
+     "result": "W",
+     "score": "4-2"
+    },
+    {
+     "date": "2026-11-09",
+     "opponent": "NYR",
+     "result": "W",
+     "score": "3-1"
+    },
+    {
+     "date": "2026-11-11",
+     "opponent": "PHI",
+     "result": "W",
+     "score": "3-2"
+    },
+    {
+     "date": "2026-11-14",
+     "opponent": "TOR",
+     "result": "W",
+     "score": "1-0"
+    }
+   ],
+   "record": "7-1-2"
+  },
+  "reference_date": "2026-11-15",
+  "road_weather": {
+   "city": "Philadelphia",
+   "description": "broken clouds",
+   "temp_c": 7
+  },
+  "schedule_notes": {
+   "back_to_backs": [
+    [
+     {
+      "date": "2026-11-21",
+      "opponent": "CAR"
+     },
+     {
+      "date": "2026-11-22",
+      "opponent": "STL"
+     }
+    ]
+   ],
+   "last_played": {
+    "date": "2026-11-14",
+    "home_or_away": "away",
+    "opponent": "TOR"
+   },
+   "next_is_back_to_back": true,
+   "played": [
+    {
+     "date": "2026-11-14",
+     "opponent": "TOR"
+    }
+   ],
+   "position": 2,
+   "run_games": [
+    {
+     "date": "2026-11-15",
+     "opponent": "PHI"
+    },
+    {
+     "date": "2026-11-17",
+     "opponent": "FLA"
+    },
+    {
+     "date": "2026-11-19",
+     "opponent": "TBL"
+    },
+    {
+     "date": "2026-11-21",
+     "opponent": "CAR"
+    },
+    {
+     "date": "2026-11-22",
+     "opponent": "STL"
+    }
+   ],
+   "run_length": 5,
+   "run_reaches_end": false,
+   "run_type": "road",
+   "total": 6
+  },
+  "standings": {
+   "division_rank": 1,
+   "losses": 3,
+   "ot_losses": 3,
+   "point_pct": 0.786,
+   "points": 33,
+   "streak": "W4",
+   "wins": 15
+  },
+  "suffer_score": {
+   "color": "#2e7d32",
+   "label": "Peak happiness. Enjoy it, it won't last.",
+   "reasons": [
+    "one-goal win",
+    "shutout",
+    "4 straight wins"
+   ],
+   "score": 1
+  },
+  "top_scorers": [
+   {
+    "assists": 39,
+    "games_played": 21,
+    "goals": 11,
+    "name": "Connor McDavid",
+    "points": 50,
+    "pp_goals": 0
+   },
+   {
+    "assists": 20,
+    "games_played": 21,
+    "goals": 18,
+    "name": "Leon Draisaitl",
+    "points": 38,
+    "pp_goals": 8
+   },
+   {
+    "assists": 22,
+    "games_played": 21,
+    "goals": 12,
+    "name": "Evan Bouchard",
+    "points": 34,
+    "pp_goals": 3
+   },
+   {
+    "assists": 6,
+    "games_played": 21,
+    "goals": 9,
+    "name": "Vasily Podkolzin",
+    "points": 15,
+    "pp_goals": 3
+   },
+   {
+    "assists": 7,
+    "games_played": 12,
+    "goals": 4,
+    "name": "Ryan Nugent-Hopkins",
+    "points": 11,
+    "pp_goals": 3
+   }
+  ],
+  "upcoming_games": [
+   {
+    "date": "2026-11-15",
+    "days_until": 0,
+    "home_or_away": "away",
+    "is_today": true,
+    "opponent": "PHI",
+    "start_time_utc": "2026-11-16T00:30:00Z",
+    "time": "Mon 16 Nov, 01:30 CET",
+    "venue": "Xfinity Mobile Arena",
+    "weekday": "Sunday"
+   },
+   {
+    "date": "2026-11-17",
+    "days_until": 2,
+    "home_or_away": "away",
+    "is_today": false,
+    "opponent": "FLA",
+    "start_time_utc": "2026-11-18T00:00:00Z",
+    "time": "Wed 18 Nov, 01:00 CET",
+    "venue": "Amerant Bank Arena",
+    "weekday": "Tuesday"
+   },
+   {
+    "date": "2026-11-19",
+    "days_until": 4,
+    "home_or_away": "away",
+    "is_today": false,
+    "opponent": "TBL",
+    "start_time_utc": "2026-11-20T00:30:00Z",
+    "time": "Fri 20 Nov, 01:30 CET",
+    "venue": "Benchmark International Arena",
+    "weekday": "Thursday"
+   },
+   {
+    "date": "2026-11-21",
+    "days_until": 6,
+    "home_or_away": "away",
+    "is_today": false,
+    "opponent": "CAR",
+    "start_time_utc": "2026-11-21T18:00:00Z",
+    "time": "Sat 21 Nov, 19:00 CET",
+    "venue": "Lenovo Center",
+    "weekday": "Saturday"
+   },
+   {
+    "date": "2026-11-22",
+    "days_until": 7,
+    "home_or_away": "away",
+    "is_today": false,
+    "opponent": "STL",
+    "start_time_utc": "2026-11-23T00:00:00Z",
+    "time": "Mon 23 Nov, 01:00 CET",
+    "venue": "Enterprise Center",
+    "weekday": "Sunday"
+   },
+   {
+    "date": "2026-11-24",
+    "days_until": 9,
+    "home_or_away": "home",
+    "is_today": false,
+    "opponent": "VGK",
+    "start_time_utc": "2026-11-25T01:00:00Z",
+    "time": "Wed 25 Nov, 02:00 CET",
+    "venue": "Rogers Place",
+    "weekday": "Tuesday"
+   }
+  ],
+  "conference_standings": {
+   "Central": [
+    {
+     "abbrev": "MIN",
+     "div_rank": 1,
+     "gp": 22,
+     "is_us": false,
+     "l10": "8-0-2",
+     "losses": 3,
+     "name": "Wild",
+     "ot_losses": 4,
+     "point_pct": 0.773,
+     "points": 34,
+     "streak": "W3",
+     "wc_rank": 0,
+     "wins": 15
+    },
+    {
+     "abbrev": "NSH",
+     "div_rank": 2,
+     "gp": 20,
+     "is_us": false,
+     "l10": "8-1-1",
+     "losses": 4,
+     "name": "Predators",
+     "ot_losses": 5,
+     "point_pct": 0.675,
+     "points": 27,
+     "streak": "W7",
+     "wc_rank": 0,
+     "wins": 11
+    },
+    {
+     "abbrev": "COL",
+     "div_rank": 3,
+     "gp": 21,
+     "is_us": false,
+     "l10": "6-2-2",
+     "losses": 6,
+     "name": "Avalanche",
+     "ot_losses": 3,
+     "point_pct": 0.643,
+     "points": 27,
+     "streak": "W1",
+     "wc_rank": 0,
+     "wins": 12
+    },
+    {
+     "abbrev": "DAL",
+     "div_rank": 4,
+     "gp": 19,
+     "is_us": false,
+     "l10": "6-3-1",
+     "losses": 6,
+     "name": "Stars",
+     "ot_losses": 2,
+     "point_pct": 0.632,
+     "points": 24,
+     "streak": "W1",
+     "wc_rank": 1,
+     "wins": 11
+    },
+    {
+     "abbrev": "UTA",
+     "div_rank": 5,
+     "gp": 21,
+     "is_us": false,
+     "l10": "3-4-3",
+     "losses": 8,
+     "name": "Mammoth",
+     "ot_losses": 3,
+     "point_pct": 0.548,
+     "points": 23,
+     "streak": "L5",
+     "wc_rank": 2,
+     "wins": 10
+    },
+    {
+     "abbrev": "WPG",
+     "div_rank": 6,
+     "gp": 21,
+     "is_us": false,
+     "l10": "6-4-0",
+     "losses": 8,
+     "name": "Jets",
+     "ot_losses": 3,
+     "point_pct": 0.548,
+     "points": 23,
+     "streak": "W6",
+     "wc_rank": 3,
+     "wins": 10
+    },
+    {
+     "abbrev": "STL",
+     "div_rank": 7,
+     "gp": 20,
+     "is_us": false,
+     "l10": "4-5-1",
+     "losses": 9,
+     "name": "Blues",
+     "ot_losses": 2,
+     "point_pct": 0.5,
+     "points": 20,
+     "streak": "L1",
+     "wc_rank": 4,
+     "wins": 9
+    },
+    {
+     "abbrev": "CHI",
+     "div_rank": 8,
+     "gp": 20,
+     "is_us": false,
+     "l10": "2-6-2",
+     "losses": 13,
+     "name": "Blackhawks",
+     "ot_losses": 2,
+     "point_pct": 0.3,
+     "points": 12,
+     "streak": "L1",
+     "wc_rank": 9,
+     "wins": 5
+    }
+   ],
+   "Pacific": [
+    {
+     "abbrev": "EDM",
+     "div_rank": 1,
+     "gp": 21,
+     "is_us": true,
+     "l10": "7-1-2",
+     "losses": 3,
+     "name": "Oilers",
+     "ot_losses": 3,
+     "point_pct": 0.786,
+     "points": 33,
+     "streak": "W4",
+     "wc_rank": 0,
+     "wins": 15
+    },
+    {
+     "abbrev": "VGK",
+     "div_rank": 2,
+     "gp": 21,
+     "is_us": false,
+     "l10": "5-2-3",
+     "losses": 5,
+     "name": "Golden Knights",
+     "ot_losses": 3,
+     "point_pct": 0.69,
+     "points": 29,
+     "streak": "L1",
+     "wc_rank": 0,
+     "wins": 13
+    },
+    {
+     "abbrev": "ANA",
+     "div_rank": 3,
+     "gp": 20,
+     "is_us": false,
+     "l10": "6-3-1",
+     "losses": 9,
+     "name": "Ducks",
+     "ot_losses": 1,
+     "point_pct": 0.525,
+     "points": 21,
+     "streak": "L2",
+     "wc_rank": 0,
+     "wins": 10
+    },
+    {
+     "abbrev": "SJS",
+     "div_rank": 4,
+     "gp": 22,
+     "is_us": false,
+     "l10": "3-6-1",
+     "losses": 11,
+     "name": "Sharks",
+     "ot_losses": 2,
+     "point_pct": 0.455,
+     "points": 20,
+     "streak": "W1",
+     "wc_rank": 5,
+     "wins": 9
+    },
+    {
+     "abbrev": "SEA",
+     "div_rank": 5,
+     "gp": 18,
+     "is_us": false,
+     "l10": "4-6-0",
+     "losses": 8,
+     "name": "Kraken",
+     "ot_losses": 1,
+     "point_pct": 0.528,
+     "points": 19,
+     "streak": "L3",
+     "wc_rank": 6,
+     "wins": 9
+    },
+    {
+     "abbrev": "CGY",
+     "div_rank": 6,
+     "gp": 20,
+     "is_us": false,
+     "l10": "5-4-1",
+     "losses": 10,
+     "name": "Flames",
+     "ot_losses": 1,
+     "point_pct": 0.475,
+     "points": 19,
+     "streak": "W1",
+     "wc_rank": 7,
+     "wins": 9
+    },
+    {
+     "abbrev": "LAK",
+     "div_rank": 7,
+     "gp": 18,
+     "is_us": false,
+     "l10": "3-7-0",
+     "losses": 11,
+     "name": "Kings",
+     "ot_losses": 2,
+     "point_pct": 0.333,
+     "points": 12,
+     "streak": "L4",
+     "wc_rank": 8,
+     "wins": 5
+    },
+    {
+     "abbrev": "VAN",
+     "div_rank": 8,
+     "gp": 21,
+     "is_us": false,
+     "l10": "1-9-0",
+     "losses": 17,
+     "name": "Canucks",
+     "ot_losses": 1,
+     "point_pct": 0.167,
+     "points": 7,
+     "streak": "L7",
+     "wc_rank": 10,
+     "wins": 3
+    }
+   ]
+  },
+  "what_we_learned": [
+   "Edmonton's road trip opened with a 1-0 win.",
+   "Levi stopped all 19 shots he faced.",
+   "Philadelphia is next, on the second night of a back-to-back."
+  ]
+ },
+ "subject": "Oilers blank Leafs 1-0, PHI up next"
+}

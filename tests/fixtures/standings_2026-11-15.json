@@ -1,0 +1,516 @@
+{
+ "standings": [
+  {
+   "teamAbbrev": {
+    "default": "CAR"
+   },
+   "conferenceAbbrev": "E",
+   "divisionAbbrev": "M",
+   "divisionName": "Metropolitan",
+   "divisionSequence": 1,
+   "wildcardSequence": 0,
+   "points": 34,
+   "gamesPlayed": 21,
+   "wins": 16,
+   "losses": 3,
+   "otLosses": 2,
+   "seasonId": 20262027
+  },
+  {
+   "teamAbbrev": {
+    "default": "MIN"
+   },
+   "conferenceAbbrev": "W",
+   "divisionAbbrev": "C",
+   "divisionName": "Central",
+   "divisionSequence": 1,
+   "wildcardSequence": 0,
+   "points": 34,
+   "gamesPlayed": 22,
+   "wins": 15,
+   "losses": 3,
+   "otLosses": 4,
+   "seasonId": 20262027
+  },
+  {
+   "teamAbbrev": {
+    "default": "EDM"
+   },
+   "conferenceAbbrev": "W",
+   "divisionAbbrev": "P",
+   "divisionName": "Pacific",
+   "divisionSequence": 1,
+   "wildcardSequence": 0,
+   "points": 33,
+   "gamesPlayed": 21,
+   "wins": 15,
+   "losses": 3,
+   "otLosses": 3,
+   "seasonId": 20262027
+  },
+  {
+   "teamAbbrev": {
+    "default": "NJD"
+   },
+   "conferenceAbbrev": "E",
+   "divisionAbbrev": "M",
+   "divisionName": "Metropolitan",
+   "divisionSequence": 2,
+   "wildcardSequence": 0,
+   "points": 30,
+   "gamesPlayed": 21,
+   "wins": 15,
+   "losses": 6,
+   "otLosses": 0,
+   "seasonId": 20262027
+  },
+  {
+   "teamAbbrev": {
+    "default": "VGK"
+   },
+   "conferenceAbbrev": "W",
+   "divisionAbbrev": "P",
+   "divisionName": "Pacific",
+   "divisionSequence": 2,
+   "wildcardSequence": 0,
+   "points": 29,
+   "gamesPlayed": 21,
+   "wins": 13,
+   "losses": 5,
+   "otLosses": 3,
+   "seasonId": 20262027
+  },
+  {
+   "teamAbbrev": {
+    "default": "TBL"
+   },
+   "conferenceAbbrev": "E",
+   "divisionAbbrev": "A",
+   "divisionName": "Atlantic",
+   "divisionSequence": 1,
+   "wildcardSequence": 0,
+   "points": 28,
+   "gamesPlayed": 20,
+   "wins": 13,
+   "losses": 5,
+   "otLosses": 2,
+   "seasonId": 20262027
+  },
+  {
+   "teamAbbrev": {
+    "default": "MTL"
+   },
+   "conferenceAbbrev": "E",
+   "divisionAbbrev": "A",
+   "divisionName": "Atlantic",
+   "divisionSequence": 2,
+   "wildcardSequence": 0,
+   "points": 28,
+   "gamesPlayed": 20,
+   "wins": 12,
+   "losses": 4,
+   "otLosses": 4,
+   "seasonId": 20262027
+  },
+  {
+   "teamAbbrev": {
+    "default": "OTT"
+   },
+   "conferenceAbbrev": "E",
+   "divisionAbbrev": "A",
+   "divisionName": "Atlantic",
+   "divisionSequence": 3,
+   "wildcardSequence": 0,
+   "points": 28,
+   "gamesPlayed": 21,
+   "wins": 13,
+   "losses": 6,
+   "otLosses": 2,
+   "seasonId": 20262027
+  },
+  {
+   "teamAbbrev": {
+    "default": "BOS"
+   },
+   "conferenceAbbrev": "E",
+   "divisionAbbrev": "A",
+   "divisionName": "Atlantic",
+   "divisionSequence": 4,
+   "wildcardSequence": 1,
+   "points": 27,
+   "gamesPlayed": 20,
+   "wins": 13,
+   "losses": 6,
+   "otLosses": 1,
+   "seasonId": 20262027
+  },
+  {
+   "teamAbbrev": {
+    "default": "NSH"
+   },
+   "conferenceAbbrev": "W",
+   "divisionAbbrev": "C",
+   "divisionName": "Central",
+   "divisionSequence": 2,
+   "wildcardSequence": 0,
+   "points": 27,
+   "gamesPlayed": 20,
+   "wins": 11,
+   "losses": 4,
+   "otLosses": 5,
+   "seasonId": 20262027
+  },
+  {
+   "teamAbbrev": {
+    "default": "COL"
+   },
+   "conferenceAbbrev": "W",
+   "divisionAbbrev": "C",
+   "divisionName": "Central",
+   "divisionSequence": 3,
+   "wildcardSequence": 0,
+   "points": 27,
+   "gamesPlayed": 21,
+   "wins": 12,
+   "losses": 6,
+   "otLosses": 3,
+   "seasonId": 20262027
+  },
+  {
+   "teamAbbrev": {
+    "default": "FLA"
+   },
+   "conferenceAbbrev": "E",
+   "divisionAbbrev": "A",
+   "divisionName": "Atlantic",
+   "divisionSequence": 5,
+   "wildcardSequence": 2,
+   "points": 26,
+   "gamesPlayed": 21,
+   "wins": 12,
+   "losses": 7,
+   "otLosses": 2,
+   "seasonId": 20262027
+  },
+  {
+   "teamAbbrev": {
+    "default": "NYR"
+   },
+   "conferenceAbbrev": "E",
+   "divisionAbbrev": "M",
+   "divisionName": "Metropolitan",
+   "divisionSequence": 3,
+   "wildcardSequence": 0,
+   "points": 25,
+   "gamesPlayed": 21,
+   "wins": 12,
+   "losses": 8,
+   "otLosses": 1,
+   "seasonId": 20262027
+  },
+  {
+   "teamAbbrev": {
+    "default": "DAL"
+   },
+   "conferenceAbbrev": "W",
+   "divisionAbbrev": "C",
+   "divisionName": "Central",
+   "divisionSequence": 4,
+   "wildcardSequence": 1,
+   "points": 24,
+   "gamesPlayed": 19,
+   "wins": 11,
+   "losses": 6,
+   "otLosses": 2,
+   "seasonId": 20262027
+  },
+  {
+   "teamAbbrev": {
+    "default": "UTA"
+   },
+   "conferenceAbbrev": "W",
+   "divisionAbbrev": "C",
+   "divisionName": "Central",
+   "divisionSequence": 5,
+   "wildcardSequence": 2,
+   "points": 23,
+   "gamesPlayed": 21,
+   "wins": 10,
+   "losses": 8,
+   "otLosses": 3,
+   "seasonId": 20262027
+  },
+  {
+   "teamAbbrev": {
+    "default": "WPG"
+   },
+   "conferenceAbbrev": "W",
+   "divisionAbbrev": "C",
+   "divisionName": "Central",
+   "divisionSequence": 6,
+   "wildcardSequence": 3,
+   "points": 23,
+   "gamesPlayed": 21,
+   "wins": 10,
+   "losses": 8,
+   "otLosses": 3,
+   "seasonId": 20262027
+  },
+  {
+   "teamAbbrev": {
+    "default": "NYI"
+   },
+   "conferenceAbbrev": "E",
+   "divisionAbbrev": "M",
+   "divisionName": "Metropolitan",
+   "divisionSequence": 4,
+   "wildcardSequence": 3,
+   "points": 22,
+   "gamesPlayed": 19,
+   "wins": 9,
+   "losses": 6,
+   "otLosses": 4,
+   "seasonId": 20262027
+  },
+  {
+   "teamAbbrev": {
+    "default": "ANA"
+   },
+   "conferenceAbbrev": "W",
+   "divisionAbbrev": "P",
+   "divisionName": "Pacific",
+   "divisionSequence": 3,
+   "wildcardSequence": 0,
+   "points": 21,
+   "gamesPlayed": 20,
+   "wins": 10,
+   "losses": 9,
+   "otLosses": 1,
+   "seasonId": 20262027
+  },
+  {
+   "teamAbbrev": {
+    "default": "WSH"
+   },
+   "conferenceAbbrev": "E",
+   "divisionAbbrev": "M",
+   "divisionName": "Metropolitan",
+   "divisionSequence": 5,
+   "wildcardSequence": 4,
+   "points": 20,
+   "gamesPlayed": 18,
+   "wins": 10,
+   "losses": 8,
+   "otLosses": 0,
+   "seasonId": 20262027
+  },
+  {
+   "teamAbbrev": {
+    "default": "STL"
+   },
+   "conferenceAbbrev": "W",
+   "divisionAbbrev": "C",
+   "divisionName": "Central",
+   "divisionSequence": 7,
+   "wildcardSequence": 4,
+   "points": 20,
+   "gamesPlayed": 20,
+   "wins": 9,
+   "losses": 9,
+   "otLosses": 2,
+   "seasonId": 20262027
+  },
+  {
+   "teamAbbrev": {
+    "default": "BUF"
+   },
+   "conferenceAbbrev": "E",
+   "divisionAbbrev": "A",
+   "divisionName": "Atlantic",
+   "divisionSequence": 6,
+   "wildcardSequence": 5,
+   "points": 20,
+   "gamesPlayed": 20,
+   "wins": 8,
+   "losses": 8,
+   "otLosses": 4,
+   "seasonId": 20262027
+  },
+  {
+   "teamAbbrev": {
+    "default": "SJS"
+   },
+   "conferenceAbbrev": "W",
+   "divisionAbbrev": "P",
+   "divisionName": "Pacific",
+   "divisionSequence": 4,
+   "wildcardSequence": 5,
+   "points": 20,
+   "gamesPlayed": 22,
+   "wins": 9,
+   "losses": 11,
+   "otLosses": 2,
+   "seasonId": 20262027
+  },
+  {
+   "teamAbbrev": {
+    "default": "SEA"
+   },
+   "conferenceAbbrev": "W",
+   "divisionAbbrev": "P",
+   "divisionName": "Pacific",
+   "divisionSequence": 5,
+   "wildcardSequence": 6,
+   "points": 19,
+   "gamesPlayed": 18,
+   "wins": 9,
+   "losses": 8,
+   "otLosses": 1,
+   "seasonId": 20262027
+  },
+  {
+   "teamAbbrev": {
+    "default": "CGY"
+   },
+   "conferenceAbbrev": "W",
+   "divisionAbbrev": "P",
+   "divisionName": "Pacific",
+   "divisionSequence": 6,
+   "wildcardSequence": 7,
+   "points": 19,
+   "gamesPlayed": 20,
+   "wins": 9,
+   "losses": 10,
+   "otLosses": 1,
+   "seasonId": 20262027
+  },
+  {
+   "teamAbbrev": {
+    "default": "DET"
+   },
+   "conferenceAbbrev": "E",
+   "divisionAbbrev": "A",
+   "divisionName": "Atlantic",
+   "divisionSequence": 7,
+   "wildcardSequence": 6,
+   "points": 19,
+   "gamesPlayed": 21,
+   "wins": 8,
+   "losses": 10,
+   "otLosses": 3,
+   "seasonId": 20262027
+  },
+  {
+   "teamAbbrev": {
+    "default": "TOR"
+   },
+   "conferenceAbbrev": "E",
+   "divisionAbbrev": "A",
+   "divisionName": "Atlantic",
+   "divisionSequence": 8,
+   "wildcardSequence": 7,
+   "points": 18,
+   "gamesPlayed": 22,
+   "wins": 8,
+   "losses": 12,
+   "otLosses": 2,
+   "seasonId": 20262027
+  },
+  {
+   "teamAbbrev": {
+    "default": "PHI"
+   },
+   "conferenceAbbrev": "E",
+   "divisionAbbrev": "M",
+   "divisionName": "Metropolitan",
+   "divisionSequence": 6,
+   "wildcardSequence": 8,
+   "points": 18,
+   "gamesPlayed": 22,
+   "wins": 6,
+   "losses": 10,
+   "otLosses": 6,
+   "seasonId": 20262027
+  },
+  {
+   "teamAbbrev": {
+    "default": "PIT"
+   },
+   "conferenceAbbrev": "E",
+   "divisionAbbrev": "M",
+   "divisionName": "Metropolitan",
+   "divisionSequence": 7,
+   "wildcardSequence": 9,
+   "points": 16,
+   "gamesPlayed": 20,
+   "wins": 7,
+   "losses": 11,
+   "otLosses": 2,
+   "seasonId": 20262027
+  },
+  {
+   "teamAbbrev": {
+    "default": "CBJ"
+   },
+   "conferenceAbbrev": "E",
+   "divisionAbbrev": "M",
+   "divisionName": "Metropolitan",
+   "divisionSequence": 8,
+   "wildcardSequence": 10,
+   "points": 14,
+   "gamesPlayed": 18,
+   "wins": 7,
+   "losses": 11,
+   "otLosses": 0,
+   "seasonId": 20262027
+  },
+  {
+   "teamAbbrev": {
+    "default": "LAK"
+   },
+   "conferenceAbbrev": "W",
+   "divisionAbbrev": "P",
+   "divisionName": "Pacific",
+   "divisionSequence": 7,
+   "wildcardSequence": 8,
+   "points": 12,
+   "gamesPlayed": 18,
+   "wins": 5,
+   "losses": 11,
+   "otLosses": 2,
+   "seasonId": 20262027
+  },
+  {
+   "teamAbbrev": {
+    "default": "CHI"
+   },
+   "conferenceAbbrev": "W",
+   "divisionAbbrev": "C",
+   "divisionName": "Central",
+   "divisionSequence": 8,
+   "wildcardSequence": 9,
+   "points": 12,
+   "gamesPlayed": 20,
+   "wins": 5,
+   "losses": 13,
+   "otLosses": 2,
+   "seasonId": 20262027
+  },
+  {
+   "teamAbbrev": {
+    "default": "VAN"
+   },
+   "conferenceAbbrev": "W",
+   "divisionAbbrev": "P",
+   "divisionName": "Pacific",
+   "divisionSequence": 8,
+   "wildcardSequence": 10,
+   "points": 7,
+   "gamesPlayed": 21,
+   "wins": 3,
+   "losses": 17,
+   "otLosses": 1,
+   "seasonId": 20262027
+  }
+ ]
+}

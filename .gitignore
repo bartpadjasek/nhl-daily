@@ -1,0 +1,11 @@
+.env
+__pycache__/
+.ruff_cache/
+*.pyc
+*.pyo
+.venv/
+.venv-ruff/
+venv/
+.DS_Store
+.aider*
+preview/

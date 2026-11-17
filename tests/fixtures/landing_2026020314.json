@@ -1,0 +1,141 @@
+{
+ "id": 2026020314,
+ "summary": {
+  "scoring": [
+   {
+    "periodDescriptor": {
+     "number": 1,
+     "periodType": "REG",
+     "maxRegulationPeriods": 3
+    },
+    "goals": []
+   },
+   {
+    "periodDescriptor": {
+     "number": 2,
+     "periodType": "REG",
+     "maxRegulationPeriods": 3
+    },
+    "goals": [
+     {
+      "situationCode": "1551",
+      "eventId": 758,
+      "strength": "ev",
+      "playerId": 8480803,
+      "firstName": {
+       "default": "Evan"
+      },
+      "lastName": {
+       "default": "Bouchard"
+      },
+      "name": {
+       "default": "E. Bouchard"
+      },
+      "teamAbbrev": {
+       "default": "EDM"
+      },
+      "headshot": "https://assets.nhle.com/mugs/nhl/20262027/EDM/8480803.png",
+      "highlightClipSharingUrl": "https://nhl.com/video/edm-tor-bouchard-scores-goal-against-anthony-stolarz-6408397022112",
+      "highlightClipSharingUrlFr": "https://nhl.com/fr/video/edm-tor-bouchard-marque-un-but-contre-anthony-stolarz-6408396246112",
+      "highlightClip": 6408397022112,
+      "highlightClipFr": 6408396246112,
+      "discreteClip": 6408397997112,
+      "discreteClipFr": 6408397624112,
+      "goalsToDate": 12,
+      "awayScore": 1,
+      "homeScore": 0,
+      "leadingTeamAbbrev": {
+       "default": "EDM"
+      },
+      "timeInPeriod": "15:34",
+      "shotType": "slap",
+      "goalModifier": "none",
+      "assists": [
+       {
+        "playerId": 8478402,
+        "firstName": {
+         "default": "Connor"
+        },
+        "lastName": {
+         "default": "McDavid"
+        },
+        "name": {
+         "default": "C. McDavid"
+        },
+        "assistsToDate": 39,
+        "sweaterNumber": 97
+       },
+       {
+        "playerId": 8477934,
+        "firstName": {
+         "default": "Leon"
+        },
+        "lastName": {
+         "default": "Draisaitl"
+        },
+        "name": {
+         "default": "L. Draisaitl"
+        },
+        "assistsToDate": 20,
+        "sweaterNumber": 29
+       }
+      ],
+      "pptReplayUrl": "https://wsr.nhle.com/sprites/20262027/2026020314/ev758.json",
+      "homeTeamDefendingSide": "left",
+      "isHome": false
+     }
+    ]
+   },
+   {
+    "periodDescriptor": {
+     "number": 3,
+     "periodType": "REG",
+     "maxRegulationPeriods": 3
+    },
+    "goals": []
+   }
+  ],
+  "threeStars": [
+   {
+    "star": 1,
+    "playerId": 8480803,
+    "teamAbbrev": "EDM",
+    "headshot": "https://assets.nhle.com/mugs/nhl/20262027/EDM/8480803.png",
+    "name": {
+     "default": "E. Bouchard"
+    },
+    "sweaterNo": 2,
+    "position": "D",
+    "goals": 1,
+    "assists": 0,
+    "points": 1
+   },
+   {
+    "star": 2,
+    "playerId": 8476932,
+    "teamAbbrev": "TOR",
+    "headshot": "https://assets.nhle.com/mugs/nhl/20262027/TOR/8476932.png",
+    "name": {
+     "default": "A. Stolarz"
+    },
+    "sweaterNo": 41,
+    "position": "G",
+    "goalsAgainstAverage": 1.03,
+    "savePctg": 0.957
+   },
+   {
+    "star": 3,
+    "playerId": 8482221,
+    "teamAbbrev": "EDM",
+    "headshot": "https://assets.nhle.com/mugs/nhl/20262027/EDM/8482221.png",
+    "name": {
+     "default": "D. Levi"
+    },
+    "sweaterNo": 27,
+    "position": "G",
+    "goalsAgainstAverage": 0.0,
+    "savePctg": 1.0
+   }
+  ]
+ }
+}

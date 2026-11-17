@@ -1,0 +1,17 @@
+# Fixed config for the test suite: the fixtures are Edmonton games, and the
+# golden emails were rendered with start times in Stockholm time.
+[team]
+abbrev = "EDM"
+
+[time]
+local_timezone = "America/Edmonton"
+display_timezone = "Europe/Stockholm"
+
+[llm]
+provider = "anthropic"
+
+[email]
+newsletter_name = "Oilers Daily"
+
+[on_this_day]
+people = ["Wayne Gretzky", "Mark Messier", "Connor McDavid"]

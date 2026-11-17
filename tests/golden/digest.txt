@@ -1,0 +1,66 @@
+OILERS DAILY — OILERS BLANK LEAFS 1-0, PHI UP NEXT
+==================================================
+
+LAST GAME
+--------------------
+EDM 1 - TOR 0  |  W  |  AWAY  |  November 14, 2026
+
+                EDM     TOR
+SOG:            23      19
+PP Goals:       0       0
+Hits:           24      30
+PIM:            7       7
+Blocked Shots:  16      22
+
+Top Performers:
+  Evan Bouchard: 1G 0A (1pts) — 23:58 TOI
+  Connor McDavid: 0G 1A (1pts) — 22:47 TOI
+  Leon Draisaitl: 0G 1A (1pts) — 21:26 TOI
+
+Goaltending:
+  Devon Levi [W]: 19/19 (1.000 SV%) — 60:00
+
+TODAY'S BRIEFING
+--------------------
+Edmonton's road trip opened in Toronto with a 1-0 win.
+
+Evan Bouchard scored late in the 2nd, and Devon Levi made 19 saves.
+
+Philadelphia is next, tonight, on the second night of a back-to-back.
+
+NEXT GAME
+--------------------
+EDM @ PHI  |  November 15, 2026  |  Mon 16 Nov, 01:30 CET
+
+OILERS STANDINGS
+--------------------
+Record: 15-3-3  |  33 pts  |  Pacific: 1st  |  Streak: W4
+
+WESTERN CONFERENCE STANDINGS
+--------------------
+
+Pacific Division
+  TEAM    GP   W   L  OTL  PTS      L10   STK
+  EDM     21  15   3    3   33    7-1-2    W4 <--
+  VGK     21  13   5    3   29    5-2-3    L1
+  ANA     20  10   9    1   21    6-3-1    L2
+  SJS     22   9  11    2   20    3-6-1    W1
+  SEA     18   9   8    1   19    4-6-0    L3
+  CGY     20   9  10    1   19    5-4-1    W1
+  LAK     18   5  11    2   12    3-7-0    L4
+  VAN     21   3  17    1    7    1-9-0    L7
+
+Central Division
+  TEAM    GP   W   L  OTL  PTS      L10   STK
+  MIN     22  15   3    4   34    8-0-2    W3
+  NSH     20  11   4    5   27    8-1-1    W7
+  COL     21  12   6    3   27    6-2-2    W1
+  DAL     19  11   6    2   24    6-3-1    W1
+  UTA     21  10   8    3   23    3-4-3    L5
+  WPG     21  10   8    3   23    6-4-0    W6
+  STL     20   9   9    2   20    4-5-1    L1
+  CHI     20   5  13    2   12    2-6-2    L1
+
+==================================================
+Oilers Daily — powered by NHL API & AI
+Not included today: Top Scorers (NHL data unavailable).

@@ -1,0 +1,33 @@
+[project]
+name = "nhl-daily"
+version = "0"
+requires-python = ">=3.11"
+readme = "README.md"
+description = "Automated daily email digest for the NHL team of your choice"
+
+[tool.ruff]
+target-version = "py311"
+line-length = 100
+exclude = [".venv", ".venv-ruff", ".ruff_cache"]
+
+[tool.ruff.lint]
+select = [
+    "E",   # pycodestyle errors
+    "F",   # Pyflakes
+    "I",   # isort
+    "UP",  # pyupgrade
+    "B",   # flake8-bugbear
+]
+
+[tool.ruff.lint.per-file-ignores]
+# Long prompt strings / HTML / API lines: splitting hurts readability
+"digest.py" = ["E501"]
+"emailer/*.py" = ["E501"]
+"game_log.py" = ["E501"]
+"nhl.py" = ["E501"]
+
+[tool.ruff.format]
+quote-style = "double"
+
+[tool.pytest.ini_options]
+testpaths = ["tests"]

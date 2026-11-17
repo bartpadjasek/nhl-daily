@@ -1,0 +1,65 @@
+name: NHL Daily Digest
+
+permissions:
+  contents: write
+
+env:
+  FORCE_JAVASCRIPT_ACTIONS_TO_NODE24: true
+
+on:
+  schedule:
+    # Runs twice a day. The pipeline only sends when a completed game isn't in
+    # game_log.json yet, so whichever run comes first after a game sends it and
+    # the other skips. GitHub often starts scheduled runs hours late.
+    - cron: '0 4 * * *'    # 04:00 UTC — usually starts ~10-12 UTC (early morning in North America)
+    - cron: '0 14 * * *'   # 14:00 UTC — fallback if the earlier run fired mid-game
+
+# Never run two digest jobs at once (they'd race on game_log.json).
+concurrency:
+  group: nhl-digest
+  cancel-in-progress: false
+
+jobs:
+  send-digest:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v4
+
+      - name: Set up Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: '3.11'
+
+      - name: Install dependencies
+        run: pip install -r requirements.txt
+
+      - name: Run digest
+        env:
+          ANTHROPIC_API_KEY: ${{ secrets.ANTHROPIC_API_KEY }}
+          OPENAI_API_KEY: ${{ secrets.OPENAI_API_KEY }}
+          GEMINI_API_KEY: ${{ secrets.GEMINI_API_KEY }}
+          LLM_API_KEY: ${{ secrets.LLM_API_KEY }}
+          RESEND_API_KEY: ${{ secrets.RESEND_API_KEY }}
+          TO_EMAIL: ${{ secrets.TO_EMAIL }}
+          OPENWEATHERMAP_API_KEY: ${{ secrets.OPENWEATHERMAP_API_KEY }}
+        run: python main.py --now
+
+      - name: Commit game log
+        run: |
+          git config user.name "nhl-daily-bot"
+          git config user.email "bot@nhldaily.local"
+          git add game_log.json season_recap_sent.json
+          git diff --cached --quiet || git commit -m "chore: update game log [skip ci]"
+          # A failed push means the next run re-sends the same game, so retry.
+          for attempt in 1 2 3; do
+            if git pull --rebase && git push; then
+              exit 0
+            fi
+            echo "Push attempt $attempt failed"
+            git rebase --abort 2>/dev/null || true
+            sleep $((attempt * 5))
+          done
+          echo "::error::Could not push game_log.json after 3 attempts"
+          exit 1
