@@ -1,6 +1,8 @@
 # NHL Daily
 
-A morning email about your NHL team, the day after every game. It pulls the result, standings and schedule from the NHL's public data, has an AI model write a short briefing, and sends a mobile-friendly email to your inbox.
+I love keeping up with my Edmonton Oilers. But since moving to Europe, most games start in the middle of my night, and catching up on scores, stats and injuries became harder and harder. So instead of spending my mornings browsing replays, articles and Reddit recaps, I built something that does the catching up for me: the morning after every game, an email lands in my inbox with the result, the key stats, who's injured, where we stand, and what's coming next.
+
+Now it works for any team. It pulls the game data from the NHL's public API, has an AI model write a short briefing, and sends it to your inbox as a mobile-friendly email.
 
 - **Any team.** Pick yours in one line of `config.toml`.
 - **Any AI provider.** Anthropic (Claude), OpenAI, Google Gemini, or any OpenAI-compatible API (OpenRouter, Groq, Ollama, LM Studio).
