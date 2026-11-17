@@ -1,5 +1,7 @@
 # NHL Daily
 
+**A daily NHL hockey newsletter for your team: game recaps, stats, standings and injury news by email, written by AI and run free on GitHub Actions.**
+
 I love keeping up with my Edmonton Oilers. But since moving to Europe, most games start in the middle of my night, and catching up on scores, stats and injuries became harder and harder. So instead of spending my mornings browsing replays, articles and Reddit recaps, I built something that does the catching up for me: the morning after every game, an email lands in my inbox with the result, the key stats, who's injured, where we stand, and what's coming next.
 
 Now it works for any team. It pulls the game data from the NHL's public API, has an AI model write a short briefing, and sends it to your inbox as a mobile-friendly email.
